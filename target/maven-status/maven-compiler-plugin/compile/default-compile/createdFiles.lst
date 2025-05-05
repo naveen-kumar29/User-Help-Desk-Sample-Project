@@ -1,0 +1,7 @@
+com/example/user/UserHelpDesk/repository/UserHelpDeskRepository.class
+com/example/user/UserHelpDesk/model/UserHelpDeskRequest.class
+com/example/user/UserHelpDesk/entity/UserHelpDeskEntity.class
+com/example/user/UserHelpDesk/common/APIResponse.class
+com/example/user/UserHelpDesk/controller/UserHelpDeskController.class
+com/example/user/UserHelpDesk/UserHelpDeskApplication.class
+com/example/user/UserHelpDesk/service/UserHelpDeskService.class
