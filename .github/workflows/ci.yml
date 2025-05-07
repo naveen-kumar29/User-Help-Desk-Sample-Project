@@ -22,4 +22,4 @@ jobs:
           java-version: '21'
 
       - name: Build and run tests
-        run: ./mvnw clean install -e -X
+        run: mvn clean install -e -X
